@@ -5,3 +5,6 @@
 ## آخر إصدار
 - **v1.1.0** (2026-09-05): https://github.com/almobarakamjd/goal365-releases/releases/latest
 - تحميل APK مباشرة: https://github.com/almobarakamjd/goal365-releases/releases/download/v1.1.0/goal365-v1.1.0.apk
+
+## تحميل مباشر من داخل المستودع (Raw)
+- https://github.com/almobarakamjd/goal365-releases/raw/main/apk/goal365-v1.1.0.apk
