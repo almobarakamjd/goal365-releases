@@ -3,7 +3,9 @@
 مستودع عام لتوزيع ملفات تثبيت تطبيق «جول 365 لايف» فقط. الكود المصدري في مستودع خاص.
 
 ## آخر إصدار
-- **v1.0.0+11** (2026-09-07): https://github.com/almobarakamjd/goal365-releases/releases/latest
+- **v1.0.0+12** (2026-09-07): https://github.com/almobarakamjd/goal365-releases/releases/latest
+- تحميل APK مباشرة: https://github.com/almobarakamjd/goal365-releases/releases/download/v1.0.0%2B12/goal365-v1.0.0-b12.apk
+- **v1.0.0+11** (2026-09-07): https://github.com/almobarakamjd/goal365-releases/releases/tag/v1.0.0%2B11
 - تحميل APK مباشرة: https://github.com/almobarakamjd/goal365-releases/releases/download/v1.0.0%2B11/goal365-v1.0.0-b11.apk
 - **v1.0.0+10** (2026-09-07): https://github.com/almobarakamjd/goal365-releases/releases/tag/v1.0.0%2B10
 - تحميل APK مباشرة: https://github.com/almobarakamjd/goal365-releases/releases/download/v1.0.0%2B10/goal365-v1.0.0-b10.apk
@@ -19,6 +21,7 @@
 - تحميل APK مباشرة: https://github.com/almobarakamjd/goal365-releases/releases/download/v1.1.3/goal365-v1.1.3.apk
 
 ## تحميل مباشر من داخل المستودع (Raw)
+- https://github.com/almobarakamjd/goal365-releases/raw/main/apk/goal365-v1.0.0-b12.apk
 - https://github.com/almobarakamjd/goal365-releases/raw/main/apk/goal365-v1.0.0-b11.apk
 - https://github.com/almobarakamjd/goal365-releases/raw/main/apk/goal365-v1.0.0-b10.apk
 - https://github.com/almobarakamjd/goal365-releases/raw/main/apk/goal365-v1.0.0-b9.apk
